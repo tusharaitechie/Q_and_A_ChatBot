@@ -661,7 +661,7 @@ It should not be considered a production-ready enterprise chatbot without additi
 
 # 👨‍💻 Author
 
-**Tushar Nile**
+**Tushar**
 
 Software Engineer | AI/ML Enthusiast | Generative AI Developer
 
